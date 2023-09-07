@@ -2,7 +2,7 @@
 ![Screenshot](screenshot.png)
 
 Welcome to the PromptVerse website repository! This repository contains the source code and assets for the PromptVerse website.
-[https://promptverse-ean1299ij-ketankarki.vercel.app/][(https://promptverse-ean1299ij-ketankarki.vercel.app/)
+[https://promptverse-ean1299ij-ketankarki.vercel.app/](https://promptverse-ean1299ij-ketankarki.vercel.app/)
 ## About PromptVerse
 
 PromptVerse is an open-source AI prompting tool designed to help users discover, create, and share creative prompts for various purposes, from writing and art to brainstorming and problem-solving.

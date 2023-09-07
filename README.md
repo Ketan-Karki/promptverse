@@ -13,7 +13,7 @@ To get started with the PromptVerse website locally, follow these steps:
 1. Clone this repository to your local machine.
 
    ```shell
-   git clone https://github.com/your-username/promptverse-website.git
+   git clone https://github.com/KetanKarki/promptverse.git
    ```
 
 2. Navigate to the project directory.

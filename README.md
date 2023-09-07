@@ -49,7 +49,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvements, please open an issue on our [Issue Tracker](https://github.com/your-username/promptverse-website/issues).
+If you encounter any issues or have suggestions for improvements, please open an issue on our [Issue Tracker](https://github.com/KetanKarki/promptverse/issues).
 
 ## Acknowledgments
 

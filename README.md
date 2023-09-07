@@ -1,4 +1,5 @@
 # PromptVerse Website Repository
+![Screenshot](screenshot.png)
 
 Welcome to the PromptVerse website repository! This repository contains the source code and assets for the PromptVerse website.
 

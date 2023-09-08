@@ -7,6 +7,12 @@ Welcome to the PromptVerse website repository! This repository contains the sour
 
 PromptVerse is an open-source AI prompting tool designed to help users discover, create, and share creative prompts for various purposes, from writing and art to brainstorming and problem-solving.
 
+## Technologies Used
+1. Next.js
+2. MongoDB
+3. Mongoose
+4. TailwindCSS
+
 ## Getting Started
 
 To get started with the PromptVerse website locally, follow these steps:
